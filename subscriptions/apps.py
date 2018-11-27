@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class SubscriptionsConfig(AppConfig):
-    name = 'subscriptions'
+class MembershipsConfig(AppConfig):
+    name = 'memberships'
